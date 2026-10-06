@@ -1,4 +1,5 @@
 """Generate a synthetic, noisy support-ticket dataset (no downloads needed)."""
+
 import random
 from pathlib import Path
 import pandas as pd
