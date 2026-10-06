@@ -1,0 +1,13 @@
+text,category
+"Money got taken from my card two times for the same plan",billing
+"Your system billed me again even though I stopped using it",billing
+"Can't get into my account, it says my credentials are invalid",login_access
+"The verification code text never shows up so I'm stuck outside",login_access
+"Whenever I tap the reports tab the whole thing just closes itself",bug_report
+"Search returns nothing even though the records exist, seems broken",bug_report
+"It'd be awesome if you offered a dark theme scheduler",feature_request
+"Would you consider adding a Zapier connector?",feature_request
+"Still waiting on my stuff, the tracking page says nothing since last week",shipping
+"The courier left my box at a neighbour's house and I don't know which",shipping
+"I'd like to end my plan at the close of this billing cycle",cancellation
+"Stop charging me and shut down my membership please",cancellation
