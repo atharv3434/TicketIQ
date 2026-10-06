@@ -1,4 +1,5 @@
 """Stress test on hand-written paraphrases the synthetic templates never contained."""
+
 import sys
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
