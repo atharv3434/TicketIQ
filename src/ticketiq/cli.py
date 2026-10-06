@@ -1,4 +1,5 @@
 """Command-line interface: `ticketiq triage "..."`, `ticketiq repl`, `ticketiq batch file.csv`."""
+
 import argparse
 import json
 from pathlib import Path
