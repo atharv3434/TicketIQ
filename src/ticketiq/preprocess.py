@@ -1,4 +1,5 @@
 """Lightweight text normalisation (no external corpora required)."""
+
 import re
 
 _URL = re.compile(r"https?://\S+|www\.\S+")
